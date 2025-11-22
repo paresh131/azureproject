@@ -1,0 +1,9 @@
+{
+	"name": "df-azureprojectParesh",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d664058f-fa61-4cf9-8293-ca9d33ff6486",
+		"tenantId": "82581794-1a7b-46b7-996b-ec88e5cbc5e2"
+	}
+}
